@@ -1,30 +1,13 @@
 {"name":"Yarzar","age":"25"}
+
 <!DOCTYPE html>
 <html>
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width">
-  <title>YarZar Win</title>
-  <link href="style.css" rel="stylesheet" type="text/css" />
-</head>
 
-<body>
-  Myanmar Apps
-<input type="nuber"/><<br />
-<button>myanmar</button>
-<textarea></textarea>
-<span>ok</span/>
-<div>
-   hello man olgein ပါ
-</div>
-  <a href="yar.html">go to yar.html</a>
-</body>
   <p>
-     တိုး 6
-    iqf 7500
+     တိုး 3လုံး
+    IQF  6000
   </p>
-  
-"
-  
+
+
 </html>
