@@ -1,19 +1,13 @@
-(11.apr.2024  )
+<!DOCTYPE html>
+<html>
+<body>
 
-လုပ်တက်(8နာရီ)ပါ
-................
+<h2>Create Object from JSON String</h2>
 
-တို့=
+<p id="demo"></p>
 
-HLWS ( 7.5 )လုံး
-
-IQF= 
-
-WCSQ(5400)
-
-    ။ 21/40(ကောင်လှယ်မယ်)
-
-      ။    (0  )
-
-(12နာရီ)ထမင်းစားမယ်😃
- 
+<script>
+let text = '{"employees":[' +
+'{"firstName":"John","lastName":"Doe" },' +
+'{"firstName":"Anna","lastName":"Smith" },' +
+'{"firstName":"Peter","lastName":"Jones" }]}';
